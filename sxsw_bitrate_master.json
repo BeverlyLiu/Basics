@@ -1,0 +1,137 @@
+{
+    "master_playlist": "https://storage.googleapis.com/encode-experiments/streams/smoothstep/multibitrate/lp/sxsw/bitrate_master.m3u8",
+    "qualities": [
+        {
+            "smoothstep": false,
+            "bitrate": 500000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.0048,
+            "num_viewports": 20,
+            "offset_z": -0.8,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.03
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 1000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.0048,
+            "num_viewports": 18,
+            "offset_z": -0.75,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.03
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 2000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.0048,
+            "num_viewports": 15,
+            "offset_z": -0.7,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.03
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 3000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.0025,
+            "num_viewports": 12,
+            "offset_z": -0.63,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.02
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 4000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.0025,
+            "num_viewports": 10,
+            "offset_z": -0.56,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.02
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 5000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 8,
+            "offset_z": -0.5,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 6000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 6,
+            "offset_z": -0.44,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 9000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 6,
+            "offset_z": -0.36,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 12000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 4,
+            "offset_z": -0.28,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 16000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 2,
+            "offset_z": -0.2,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 20000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 1,
+            "offset_z": -0.0,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        },
+        {
+            "smoothstep": false,
+            "bitrate": 25000000,
+            "stereo_type": "tb",
+            "cubemap_face_order": "planar",
+            "padding": 0.001,
+            "num_viewports": 1,
+            "offset_z": -0.0,
+            "projection_type": "offset_cubemap",
+            "expand_coef": 1.01
+        }
+    ]
+}
